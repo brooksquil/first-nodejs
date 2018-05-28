@@ -1,0 +1,24 @@
+{
+  "name": "first-node-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brooksquil/first-nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brooksquil/first-nodejs/issues"
+  },
+  "homepage": "https://github.com/brooksquil/first-nodejs#readme",
+  "dependencies": {
+    "formidable": "^1.2.1",
+    "nodemailer": "^4.6.5",
+    "upper-case": "^1.1.3"
+  }
+}
